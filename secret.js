@@ -1,0 +1,1 @@
+const url = "mongodb+srv://root:4yF@m3mVFDN@nicolas-silva-tiqxs.mongodb.net/test?retryWrites=true&w=majority&useNewUrlParser=true&useUnifiedTopology=true";
